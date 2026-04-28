@@ -64,10 +64,10 @@ function page2() {
     `
     ${heartGif()}
     <h1 id="typingText"></h1>
-
+<p>Sorry aaaj meh college aagaya.Sorry bbyyy</p>
     <button onclick="page3()">Next 💫</button>
   `,
-    "It started simple..."
+    "Maaf kardoonaaa....."
   );
 }
 
@@ -104,7 +104,7 @@ function page5() {
     <button onclick="yes()">YES ❤️</button>
     <button class="ghost" onmouseover="moveNo(this)" onclick="moveNo(this)">NO 😭</button>
   `,
-    `${name}, Tum Hamesa Mere Rahegana? 💖`
+    `${name}, Tum Hamesa Mere Rahogena? 💖`
   );
 }
 
